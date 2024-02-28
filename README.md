@@ -2,7 +2,7 @@
 
 ![DRIDI OUSSAMA](https://github.com/oussamadriidii "DRIDI OUSSAMA")
 
-:computer: _financial manager at [Fitnezz.io](https://github.com/oussamadriidii)_ :desert_island:Living in Tunisia 🇹🇳
+:computer: _financial manager at [https://www.cotugrain.com/](https://github.com/oussamadriidii)_ :desert_island:Living in Tunisia 🇹🇳
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-My name is Alyssa Columbus, and I'm a member of the Spring 2018 Class of **NASA Datanauts**. Previously, I have worked as an **information security analyst**, **data scientist**, and **machine learning researcher**. My award-winning work has been featured by many organizations including **Forbes**, **O’Reilly Media**, **Kaggle**, and **Microsoft’s Revolution Analytics blog**. I hold a degree in Mathematics from the **University of California, Irvine**, and I am currently pursuing a graduate degree in Applied and Computational Mathematics from **Johns Hopkins University**.
+Hi
+I introduce myself to Oussama Dridi, a young graduate in business computing management, specialising in "E-business" at ESSECT.
+Currently, I am a student at L'Esprit (evening classes) in order to have a degree in engineering specialty Computer science.
 
-I am a strong proponent of reproducible methods, open source technologies, and diversity in tech. I am the founder of **[R-Ladies Irvine](https://www.rladiesirvine.org)**, and I'm a member of the **MIT Technology Review** Global Panel.
-
-I love my work and enjoy each new challenge as it arises. Have a look at my **[portfolio and experience](https://alyssacolumbus.com)**, and don’t hesitate to **[contact me](mailto:hello@alyssacolumbus.com)** if you think I can be of service to you.
+In particular, I am in charge of the position of Administrative and Financial Affairs Manager within the company 'RAINBOW HORTICULTURE TUNISIA' Group |HORTIMAG| in the agricultural sector.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### My Tech Stack
