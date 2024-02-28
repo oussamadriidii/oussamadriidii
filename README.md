@@ -2,7 +2,7 @@
 
 ## Hi I'm DRIDI OUSSAMA  :computer:
 
-<img src="https://www.facebook.com/photo/?fbid=2332950326851183&set=a.100873636725541"/>
+<img src="C:\Users\oussama.dridi\Downloads\WhatsApp Image 2024-02-23 at 23.32.51.jpeg"/>
 
 :computer: _financial manager at [cotugrain.com](https://github.com/oussamadriidii)_ :desert_island:Living in Tunisia 🇹🇳
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
