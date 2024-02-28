@@ -2,7 +2,7 @@
 
 ![DRIDI OUSSAMA](https://github.com/oussamadriidii "DRIDI OUSSAMA")
 
-:computer: _financial manager at [https://www.cotugrain.com/](https://github.com/oussamadriidii)_ :desert_island:Living in Tunisia 🇹🇳
+:computer: _financial manager at [cotugrain.com](https://github.com/oussamadriidii)_ :desert_island:Living in Tunisia 🇹🇳
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
