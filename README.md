@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hedythedev/hedythedev/master/assets/hedylibanner.png" alt="Hey, I'm Hedy [banner]" />
+<img src="https://raw.githubusercontent.com/hedythedev/hedythedev/master/assets/hedylibanner.png" alt="Hey, I'm DRIDI OUSSAMA [banner]" />
 
 ## Hi I'm DRIDI OUSSAMA  :computer:
 
