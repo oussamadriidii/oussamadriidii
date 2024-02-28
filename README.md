@@ -2,7 +2,7 @@
 
 ## Hi I'm DRIDI OUSSAMA  :computer:
 
-![DRIDI OUSSAMA](https://github.com/oussamadriidii "DRIDI OUSSAMA")
+<img src="https://www.facebook.com/photo/?fbid=2332950326851183&set=a.100873636725541"/>
 
 :computer: _financial manager at [cotugrain.com](https://github.com/oussamadriidii)_ :desert_island:Living in Tunisia 🇹🇳
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
