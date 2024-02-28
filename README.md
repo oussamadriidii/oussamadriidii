@@ -1,4 +1,4 @@
-## Hi I'm Gaboso :fox_face:
+## Hi I'm DRIDI OUSSAMA:fox_face:
 
 ![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
 
