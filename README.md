@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dridi Oussama</h1>
 <h3 align="center">Finance Manager at HORTIMAG GROUP</h3>
 
+
+<p> I am a young graduate in Business Computing Management Informatics, specialty: 'E-business' with honors at the Graduate School of Economics and Business Sciences of Tunis.
+Currently, I am the financial manager of the HORTIMAG GROUP Company RAINbOW HORTICULTURE TUNISIA . </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/oussama-dridi-738769204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oussama-dridi-738769204/" height="30" width="40" /></a>
