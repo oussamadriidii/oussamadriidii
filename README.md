@@ -2,8 +2,7 @@
 <h3 align="center">Finance Manager at HORTIMAG GROUP</h3>
 <a href="https://app.daily.dev/dridioussama"><img src="https://api.daily.dev/devcards/v2/hNdINjRma53kJPXKGLK6s.png?type=wide&r=zd8" width="1000" alt="Dridi Oussama's Dev Card"/></a>
 
-<p> I am a young graduate in Business Computing Management Informatics, specialty: 'E-business' with honors at the Graduate School of Economics and Business Sciences of Tunis.
-Currently, I am the financial manager of the HORTIMAG GROUP Company RAINBOW HORTICULTURE TUNISIA . </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
