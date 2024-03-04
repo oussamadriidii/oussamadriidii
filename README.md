@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dridi Oussama</h1>
 <h3 align="center">Finance Manager at HORTIMAG GROUP</h3>
 
+![Header](./profile.png)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamadriidii&label=Profile%20views&color=0e75b6&style=flat" alt="oussamadriidii" /> </p>
 
 - 🌱 I’m currently learning **At ESPRIT IT engineer**
