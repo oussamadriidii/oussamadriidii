@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dridi Oussama</h1>
 <h3 align="center">Finance Manager at HORTIMAG GROUP</h3>
 
-![Header](./profile.png)
+![Header](./images.png)
+
+
 
 
 
