@@ -2,8 +2,8 @@
 <h3 align="center">Frontend Developper at HORTIMAG GROUP</h3>
 
 ![Header](./IMAGEA.png)
-![Header](./giphy.gif)
-![Header](./giphy2.gif)
+
+
 
 
 
@@ -12,10 +12,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamadriidii&label=Profile%20views&color=0e75b6&style=flat" alt="oussamadriidii" /> </p>
 
-- 🌱 I’m currently learning **At ESPRIT IT engineer**         
+- 🌱 I’m currently learning **At ESPRIT IT engineer**   ![Header](./giphy.gif)      
 - 📫 How to reach me **dridi.oussama@esprit.tn**   
  
-
+![Header](./giphy2.gif)
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
