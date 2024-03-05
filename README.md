@@ -12,8 +12,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamadriidii&label=Profile%20views&color=0e75b6&style=flat" alt="oussamadriidii" /> </p>
 
-- 🌱 I’m currently learning **At ESPRIT IT engineer**   ![Header](./giphy.gif)      
-- 📫 How to reach me **dridi.oussama@esprit.tn**   
+<p>
+ - 🌱 I’m currently learning <strong>At ESPRIT IT engineer</strong> <br>
+ 
+ <img src="./giphy.gif" alt="Header"> <br>
+
+ - 📫 How to reach me <strong>dridi.oussama@esprit.tn</strong>
+</p>
+
  
 ![Header](./giphy2.gif)
 <h3 align="left">Connect with me:</h3>
